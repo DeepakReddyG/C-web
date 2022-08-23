@@ -1,0 +1,13 @@
+.module1 p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 70px;
+    font-weight: 100;
+    margin-left: 10%;
+    margin-top: 10%;
+    color: rgb(57, 57, 57);
+}
+#module1-img img{
+    width: 60%;
+    float: right;
+    margin-top: -25%;
+}
