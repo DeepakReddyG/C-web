@@ -41,3 +41,8 @@ body {
     font-weight: 100px;
     margin-left: 60%;
 }
+
+.community-actions-image img {
+    width: 50%;
+    
+}

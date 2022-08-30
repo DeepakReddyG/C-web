@@ -1,0 +1,27 @@
+#one {
+    font-size: 20px;
+    font-style: italic;
+}
+#two {
+    font-size: 40px;
+    color: tomato;
+    font-style: italic;
+    text-decoration:underline;
+    text-align: center;
+}
+#three {
+    font-size: 30px;
+    
+}
+.contents ol {
+    font-size: 20px;
+}
+.contents {
+    border: 2px solid;
+    width: 25%;
+    padding: 20px;
+}
+.contents ol>ol {
+    color:rgb(88, 88, 91);
+    font-size: 15px;
+}
