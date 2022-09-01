@@ -27,51 +27,15 @@
     font-size: 30px;
     
 }
+.contents ol {
+    font-size: 20px;
+}
 .contents {
     border: 2px solid;
     width: 25%;
     padding: 20px;
 }
-.contents ol {
-    font-size: 20px;
-    
-}
 .contents ol>ol {
     color:rgb(88, 88, 91);
     font-size: 15px;
-}
-.detailing {
-    border: 2px solid;
-    width: 70%;
-    position: absolute;
-    margin-top: -51.5%;
-    margin-left: 28%;
-   
-}
-.detailing-image-1 {
-    display: inline-block;
-}
-.detailing-image-1 img {
-    width: 100%;
-}
-.table table {
-    border-collapse: collapse;
-    width: 80%;
-    margin-left: 10%;
-    font-size: 20px;
-}
-.table td,th {
-    border: 1px solid;
-    text-align: center;
-}
-.table td {
-    padding: 10px;
-}
-.table th {
-    background-color: black;
-    color: white;
-    padding: 10px;
-}
-.table tr:nth-child(even) {
-    background-color:antiquewhite;
 }
