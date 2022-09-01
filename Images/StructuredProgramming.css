@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.navigation ul {
+    list-style: none;
+    margin-left: 50%;
+}
+.navigation li {
+    display: inline;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 20px;
+}
+.navigation a {
+    text-decoration: none;
+}
+#one {
+    font-size: 20px;
+    font-style: italic;
+}
+
+#three {
+    font-size: 30px;
+    
+}
+.contents ol {
+    font-size: 20px;
+}
+.contents {
+    border: 2px solid;
+    width: 25%;
+    padding: 20px;
+    display: inline-block;
+}
+.contents ol>ol {
+    color:rgb(88, 88, 91);
+    font-size: 15px;
+}
+
+.detailing {
+    width: 70%;
+    display: inline-block;
+    
+}
+.box {
+    border: 2px solid;
+    padding: 20px;
+}
+.box p {
+    font-size: 30px;
+}
